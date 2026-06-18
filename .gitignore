@@ -3,3 +3,5 @@ __pycache__/
 .env
 *.pyc
 .enviro_key
+
+.DS_Store
